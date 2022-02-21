@@ -13,9 +13,9 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 Your users should be able to:
 
-    View the optimal layout for each page depending on their device's screen size
-    See hover states for all interactive elements throughout the site
-    Bonus: Use Leaflet JS to create an interactive location map with custom location pin
+    * View the optimal layout for each page depending on their device's screen size
+    * See hover states for all interactive elements throughout the site
+    * Bonus: Use Leaflet JS to create an interactive location map with custom location pin
 
 
 ## My process
