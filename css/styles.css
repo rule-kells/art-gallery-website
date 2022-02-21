@@ -627,12 +627,16 @@ footer section > * {
 
   /* main  - desktop  */
 
+  .main-home {
+    padding: 11.25rem 0 11.25rem;
+    gap: 1.875rem 0;
+  }
+
   /* day  */
 
   .day {
     display: grid;
     justify-content: space-between;
-
     align-items: center;
     grid-template-columns:
       minmax(min-content, 21.875rem) minmax(min-content, 7.8125rem)
@@ -717,6 +721,9 @@ footer section > * {
   }
 
   /* general footer  */
+  footer {
+    padding: 5rem 2.5rem;
+  }
 
   footer .container {
     display: grid;
