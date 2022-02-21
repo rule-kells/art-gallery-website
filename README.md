@@ -11,10 +11,10 @@ Your challenge is to build out this art gallery website and get it looking as cl
 
 You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
->###Your users should be able to:
->-View the optimal layout for each page depending on their device's screen size
->-See hover states for all interactive elements throughout the site
->-Bonus: Use Leaflet JS to create an interactive location map with custom location pin
+> ### Your users should be able to:
+> - View the optimal layout for each page depending on their device's screen size
+> - See hover states for all interactive elements throughout the site
+> - Bonus: Use Leaflet JS to create an interactive location map with custom location pin
 
 
 ## My process
