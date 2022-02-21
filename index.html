@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon-32x32.png">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
+  <link rel="stylesheet" href="./css/styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@800;900&family=Outfit:wght@300&display=swap"
+    rel="stylesheet">
+
+  <title>Frontend Mentor | Art gallery website</title>
+</head>
+
+<body>
+
+
+  <header class="hero">
+    <div class=" d-grid">
+      <picture class="hero-img">
+        <source srcset="./assets/tablet/image-hero.jpg, ./assets/tablet/image-hero@2x.jpg 2x"
+          media="(min-width: 768px) and (max-width: 1079px)">
+        <source srcset="./assets/desktop/image-hero.jpg, ./assets/desktop/image-hero@2x.jpg 2x"
+          media="(min-width: 1080px)">
+        <img src="./assets/mobile/image-hero.jpg"
+          alt="A couple walking by looking at a giant picture of an older woman on the wall"
+          srcset="./assets/mobile/image-hero@2x.jpg">
+      </picture>
+      <h1 class="heading-xl">Modern <br> Art Gallery</h1>
+      <div class="hero__content flow-content">
+        <p>
+          The arts in the collection of the Modern Art Gallery all started
+          from a spark of inspiration. Will these pieces inspire you? Visit
+          us and find out.
+        </p>
+        <a class="btn btn-home" href="./location.html">Our location
+          <img src="./assets/icon-arrow-right.svg" alt="arrow pointing right">
+        </a>
+      </div>
+    </div>
+  </header>
+
+
+  <main class="main-home container">
+    <div class="day">
+      <picture class="day-img">
+        <source srcset="./assets/tablet/image-grid-1.jpg, ./assets/tablet/image-grid-1@2x.jpg 2x"
+          media="(min-width: 768px) and (max-width: 1079px)">
+        <source srcset="./assets/desktop/image-grid-1.jpg, ./assets/desktop/image-grid-1@2x.jpg 2x"
+          media="(min-width: 1080px)">
+        <img src="./assets/mobile/image-grid-1.jpg" alt="a room filled with pictures on display"
+          srcset="./assets/mobile/image-grid-1@2x.jpg">
+      </picture>
+      <section class="day__content">
+        <h2 class="heading-m">Your day <br> at the gallery</h2>
+        <p>
+          Wander through our distinct collections and find new insights about
+          our artists. Dive into the details of their creative process.
+        </p>
+      </section>
+    </div>
+    <div class="inspired">
+      <picture class="inspired-img">
+        <source srcset="./assets/tablet/image-grid-2.jpg, ./assets/tablet/image-grid-2@2x.jpg 2x"
+          media="(min-width: 768px) and (max-width: 1079px)">
+        <source srcset="./assets/desktop/image-grid-2.jpg, ./assets/desktop/image-grid-2@2x.jpg 2x"
+          media="(min-width: 1080px)">
+        <img src="./assets/mobile/image-grid-2.jpg"
+          alt="a table in the forefont with a picture of a staircase on the wall in the background"
+          srcset="./assets/mobile/image-grid-2@2x.jpg">
+      </picture>
+      <picture class="inspired-img">
+        <source srcset="./assets/tablet/image-grid-3.jpg, ./assets/tablet/image-grid-3@2x.jpg 2x"
+          media="(min-width: 768px) and (max-width: 1079px)">
+        <source srcset="./assets/desktop/image-grid-3.jpg, ./assets/desktop/image-grid-3@2x.jpg 2x"
+          media="(min-width: 1080px)">
+        <img src="./assets/mobile/image-grid-3.jpg" alt="people looking at pictures of art on the wall in a museum"
+          srcset="./assets/mobile/image-grid-3@2x.jpg">
+      </picture>
+      <section class="inspired__content bg-dark">
+        <h2 class="heading-m">Come &amp; be inspired</h2>
+        <p>
+          We’re excited to welcome you to our gallery and see how our collections
+          influence you.
+        </p>
+      </section>
+    </div>
+  </main>
+
+
+  <footer class="footer-home bg-dark">
+    <section class="container">
+      <h3 class="heading-f">Modern <br> Art Gallery</h3>
+      <p>
+        The Modern Art Gallery is free to all visitors and open seven days a week
+        from 8am to 9pm. Find us at 99 King Street, Newport, USA.
+      </p>
+
+      <ul class="social-list">
+        <li class="social-item">
+          <a aria-label="Facebook" href="#" class="social-link">
+            <i class="fab fa-facebook-f"></i>
+          </a>
+        </li>
+        <li class="social-item">
+          <a aria-label="Instagram" href="#" class="social-link">
+            <i class="fab fa-instagram fa-lg"></i>
+          </a>
+        </li>
+        <li class="social-item">
+          <a aria-label="Twitter" href="#" class="social-link">
+            <i class="fab fa-twitter fa-lg"></i>
+          </a>
+        </li>
+      </ul>
+    </section>
+  </footer>
+
+</body>
+
+</html>
