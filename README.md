@@ -27,9 +27,9 @@ Your users should be able to:
 * Mobile-first workflow
 
 ## What I learned
-This was one of my favorite projects to work on; I loved it! It challenged me to push my grid skills even further. I really have been enjoying these Frontend Mentor projects.
+This was one of my favorite projects to work on; I loved it! It challenged me to push my grid skills even further and aim for pixel perfection. I really have been enjoying these Frontend Mentor projects.
 
-## Useful Resources
+## Useful Tools
 1. Figma [Figma](https://www.figma.com/ "Figma").
 2. Adobe XD [Adobe XD](https://www.adobe.com/products/xd.html "Adobe XD").
 3. Firefox Developer Edition [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/ "Firefox Developer Edition").
