@@ -27,7 +27,7 @@ Your users should be able to:
 * Mobile-first workflow
 
 ## What I learned
-This was one of my favorite projects to work on; I loved it! It challenged me to push my grid skills even further and aim for pixel perfection. I really have been enjoying these Frontend Mentor projects.
+This was one of my favorite projects to work on; I loved it! It challenged me to push my grid skills even further and aim for pixel perfection. I have been really enjoying these Frontend Mentor projects.
 
 ## Useful Tools
 1. Figma [Figma](https://www.figma.com/ "Figma").
